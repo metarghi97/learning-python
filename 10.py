@@ -1,6 +1,5 @@
 
-
-# Fixed the spelling mistake from "deftract_and_rearrange" to "extract_and_rearrange" 
+#Fixed the spelling mistake from "deftract_and_rearrange" to "extract_and_rearrange" 
 def extract_and_rearrange(string):
     # Issue: reversed() should work on a string or a list, and the slicing was incorrect; corrected slicing and logic
     # Fixed: Corrected reversed and split handling
@@ -29,4 +28,4 @@ def ultra_extract_and_rearrange(string):
 print(ultra_extract_and_rearrange("egthb quirock nwoGrb forijmpxv"))
 
 
-# The message is: "Bthe rock own rbmforijmpxv"
+# The message is: "Htge quick brGown forijmpx"
